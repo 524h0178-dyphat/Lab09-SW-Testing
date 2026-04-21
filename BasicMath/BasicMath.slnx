@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/BankAccountApp/BankAccountApp.csproj" />
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/BankAccountTests/BankAccountTests.csproj" />
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/BasicMath/BasicMath.csproj" />
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/BasicMathTests/BasicMathTests.csproj" />
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/BasicMathTests1/BasicMathTests1.csproj" />
+  <Project Path="D:/Study/HK2_2526/CNPM/Lab/Lab09/LoginAutomation/LoginAutomation.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+D:\Study\HK2_2526\CNPM\Lab\Lab09\BasicMath\obj\Debug\netstandard2.0\BasicMath.csproj.AssemblyReference.cache
+D:\Study\HK2_2526\CNPM\Lab\Lab09\BasicMath\obj\Debug\netstandard2.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\HK2_2526\CNPM\Lab\Lab09\BasicMath\obj\Debug\netstandard2.0\BasicMath.AssemblyInfoInputs.cache
+D:\Study\HK2_2526\CNPM\Lab\Lab09\BasicMath\obj\Debug\netstandard2.0\BasicMath.AssemblyInfo.cs
+D:\Study\HK2_2526\CNPM\Lab\Lab09\BasicMath\obj\Debug\netstandard2.0\BasicMath.csproj.CoreCompileInputs.cache

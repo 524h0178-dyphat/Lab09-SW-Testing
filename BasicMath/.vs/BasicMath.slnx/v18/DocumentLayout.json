@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BasicMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C93CBBE-E01B-FBD3-37F6-248644537F12}|..\\LoginAutomation\\LoginAutomation.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\loginautomation\\loginautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C93CBBE-E01B-FBD3-37F6-248644537F12}|..\\LoginAutomation\\LoginAutomation.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\loginautomation\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C93CBBE-E01B-FBD3-37F6-248644537F12}|..\\LoginAutomation\\LoginAutomation.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\loginautomation\\logintestdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA76F9-8149-A7AC-F905-C84E6A57D933}|..\\BankAccountTests\\BankAccountTests.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccounttests\\bankaccounttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA76F9-8149-A7AC-F905-C84E6A57D933}|..\\BankAccountTests\\BankAccountTests.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccounttests\\bankaccountcsvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA76F9-8149-A7AC-F905-C84E6A57D933}|..\\BankAccountTests\\BankAccountTests.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccounttests\\bankaccounttestdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA76F9-8149-A7AC-F905-C84E6A57D933}|..\\BankAccountTests\\BankAccountTests.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccounttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D20CC8-7E82-8F86-256A-6373DFE7C05E}|..\\BankAccountApp\\BankAccountApp.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccountapp\\backaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D20CC8-7E82-8F86-256A-6373DFE7C05E}|..\\BankAccountApp\\BankAccountApp.csproj|d:\\study\\hk2_2526\\cnpm\\lab\\lab09\\bankaccountapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginTests.cs",
+              "RelativeDocumentMoniker": "..\\LoginAutomation\\LoginTests.cs",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginTests.cs",
+              "RelativeToolTip": "..\\LoginAutomation\\LoginTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:00:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTestData.csv",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginTestData.csv",
+              "RelativeDocumentMoniker": "..\\LoginAutomation\\LoginTestData.csv",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginTestData.csv",
+              "RelativeToolTip": "..\\LoginAutomation\\LoginTestData.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-21T14:57:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginAutomation",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginAutomation.csproj",
+              "RelativeDocumentMoniker": "..\\LoginAutomation\\LoginAutomation.csproj",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\LoginAutomation\\LoginAutomation.csproj",
+              "RelativeToolTip": "..\\LoginAutomation\\LoginAutomation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T14:54:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountCsvTests.cs",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountCsvTests.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountTests\\BankAccountCsvTests.cs",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountCsvTests.cs",
+              "RelativeToolTip": "..\\BankAccountTests\\BankAccountCsvTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:36:41.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccountTestData.csv",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountTestData.csv",
+              "RelativeDocumentMoniker": "..\\BankAccountTests\\BankAccountTestData.csv",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountTestData.csv",
+              "RelativeToolTip": "..\\BankAccountTests\\BankAccountTestData.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-21T14:33:05.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccountTests.csproj",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountTests.csproj",
+              "RelativeDocumentMoniker": "..\\BankAccountTests\\BankAccountTests.csproj",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\BankAccountTests.csproj",
+              "RelativeToolTip": "..\\BankAccountTests\\BankAccountTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T14:27:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BankAccountTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:23:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackAccount.cs",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountApp\\BackAccount.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountApp\\BackAccount.cs",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountApp\\BackAccount.cs",
+              "RelativeToolTip": "..\\BankAccountApp\\BackAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:20:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountApp\\Program.cs",
+              "ToolTip": "D:\\Study\\HK2_2526\\CNPM\\Lab\\Lab09\\BankAccountApp\\Program.cs",
+              "RelativeToolTip": "..\\BankAccountApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:18:57.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
